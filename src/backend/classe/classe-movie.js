@@ -1,18 +1,12 @@
-export default class Movie {
-    // Método privado para gerar ID autoincrementado
-    static #nextId = 0;
-    static generateId() {
-        return this.#nextId += 1;
-    }
-
+export class Movie {
     // Privates props declaration
     #id;
     #title;
     #director;
     #releaseYear;
 
-    constructor(title, director, releaseYear) {
-        this.#id = Movie.generateId();
+    constructor(id, title, director, releaseYear) {
+        this.#id = id;
         this.#title = title;
         this.#director = director;
         this.#releaseYear = releaseYear;
