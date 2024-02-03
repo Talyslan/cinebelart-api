@@ -9,32 +9,46 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
 
 ## API Endpoints
 
-### Get All Movies
+### 📽️ Get All Movies
 - Endpoint: `/movie`
 - Method: `Get`
 - Description: retorna a lista com todos os filmes
 
-<details open="">
-<summary>
-    <img src="https://i.pinimg.com/originals/95/3d/6c/953d6c0a8026ae79e81a689692428c6f.png" alt="seta"/>
-    Este é um exemplo de resposta 
-</summary>
-  <br>
-  <p align="center">
-    <code>
+<details>
+<summary>Este é um exemplo de resposta</summary>
+	
+```json
 {
-	"moviesList": [
-		{
-			"id": 1,
-			"title": "La La Land",
-			"director": "Damien Chazelle",
-			"releaseYear": 2017,
-			"poster": "https://photos.app.goo.gl/MMHVDmUTkjbWBCJz8"
-		}
-	]
+    "moviesList": [
+        {
+        "id": 1,
+        "title": "La La Land",
+        "director": "Damien Chazelle",
+        "releaseYear": 2017,
+        "poster": "https://photos.app.goo.gl/MMHVDmUTkjbWBCJz8"
+        }
+    ]
 }
-    </code>
-  </p>
+```
+</details>
+
+### 📽️ Get a specific movie
+- Endpoint: `/movie/:id`
+- Method: `Get`
+- Description: retorna um filme específico
+
+<details>
+<summary>Este é um exemplo de resposta</summary>
+	
+```json
+{
+     "id": 1,
+     "title": "La La Land",
+     "director": "Damien Chazelle",
+     "releaseYear": 2017,
+     "poster": "https://photos.app.goo.gl/MMHVDmUTkjbWBCJz8"
+}
+```
 </details>
 
 <!-- ## 📌 Como ver
@@ -47,15 +61,14 @@ Se você gostaria de contribuir para o desenvolvimento da CineBelArt API, por fa
 
 
 - Para realizar um clone raso, reduzirá a quantidade de histórico baixado.
-<blockquote>
-<code>git clone --depth 1 https://github.com/Talyslan/Maya-Landing-Page.git</code>
-</blockquote>
-<br>
+```javascript
+git clone --depth 1 https://github.com/Talyslan/Maya-Landing-Page.git
+```
 
 - Para realizar um clone comum.
-<blockquote>
-<code>git clone https://github.com/Talyslan/Maya-Landing-Page.git</code>
-</blockquote>
+```javascript
+git clone https://github.com/Talyslan/Maya-Landing-Page.git
+```
 
 ## 🚀 Technologies Used
 
@@ -69,3 +82,11 @@ Feito por <a href="https://github.com/Talyslan">Talyslan Canabarro</a>
 <br/>
 
 <img src="https://img.shields.io/badge/license-MIT-8A2BE2" alt="license mit" />
+
+<details>
+<summary> <b>Para realizar um clone comum:</b> </summary>
+
+```javascript
+git clone https://github.com/Talyslan/Maya-Landing-Page.git
+```
+</details>
