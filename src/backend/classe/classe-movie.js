@@ -4,12 +4,14 @@ export class Movie {
     #title;
     #director;
     #releaseYear;
-
-    constructor(id, title, director, releaseYear) {
+    #poster
+    
+    constructor(id, title, director, releaseYear, poster) {
         this.#id = id;
         this.#title = title;
         this.#director = director;
         this.#releaseYear = releaseYear;
+        this.#poster = poster;
     }
 
     // getters
@@ -27,5 +29,9 @@ export class Movie {
 
     getReleaseYear() {
         return this.#releaseYear;
+    }
+
+    getPoster() {
+        return this.#poster;
     }
 }
