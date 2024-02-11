@@ -91,6 +91,7 @@ npm install express
 npm install mongoose
 npm install nodemon
 npm install dontev
+npm install cors
 
 npm run dev
 ```
@@ -102,16 +103,10 @@ A criação deste projeto utiliza as tecnologias:
 - Node.js
 - Express
 - Nodemon
+- Cors
+- Mongoose (Banco de dados: MongoDB Atlas)
 
 Feito por <a href="https://github.com/Talyslan">Talyslan Canabarro</a>
 <br/>
 
 <img src="https://img.shields.io/badge/license-MIT-8A2BE2" alt="license mit" />
-
-<details>
-<summary> <b>Para realizar um clone comum:</b> </summary>
-
-```javascript
-git clone https://github.com/Talyslan/Maya-Landing-Page.git
-```
-</details>
