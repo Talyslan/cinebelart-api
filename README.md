@@ -85,6 +85,16 @@ git clone --depth 1 https://github.com/Talyslan/Maya-Landing-Page.git
 git clone https://github.com/Talyslan/Maya-Landing-Page.git
 ```
 
+- Instale as dependências e rode a API.
+```javascript
+npm install express
+npm install mongoose
+npm install nodemon
+npm install dontev
+
+npm run dev
+```
+
 ## 🚀 Technologies Used
 
 A criação deste projeto utiliza as tecnologias:
