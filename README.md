@@ -105,6 +105,9 @@ A criação deste projeto utiliza as tecnologias:
 - Nodemon
 - Cors
 - Mongoose (Banco de dados: MongoDB Atlas)
+- HTML
+- CSS
+- JavaScript
 
 Feito por <a href="https://github.com/Talyslan">Talyslan Canabarro</a>
 <br/>
