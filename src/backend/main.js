@@ -1,8 +1,10 @@
-import express from 'express'
+import express from 'express';
+import cors from 'cors';
 
-import { filmRouter } from './routes/films.routes.js'
+import { filmRouter } from './routes/films.routes.js';
 
-export const app = express()
+export const app = express();
 
-app.use(express.json())
-app.use(filmRouter)
+app.use(cors());
+app.use(express.json());
+app.use(filmRouter);

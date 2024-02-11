@@ -14,31 +14,31 @@ export class Movie {
    * @param {Number} releaseYear - description of parameter
    */
   constructor(id, title, director, releaseYear, poster) {
-    this.#id = id
-    this.#title = title
-    this.#director = director
-    this.#releaseYear = releaseYear
-    this.#poster = poster
+    this.#id = id;
+    this.#title = title;
+    this.#director = director;
+    this.#releaseYear = releaseYear;
+    this.#poster = poster;
   }
 
   // getters
   getId() {
-    return this.#id
+    return this.#id;
   }
 
   getTitle() {
-    return this.#title
+    return this.#title;
   }
 
   getDirector() {
-    return this.#director
+    return this.#director;
   }
 
   getReleaseYear() {
-    return this.#releaseYear
+    return this.#releaseYear;
   }
 
   getPoster() {
-    return this.#poster
+    return this.#poster;
   }
 }
