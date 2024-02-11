@@ -10,7 +10,7 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
 ## API Endpoints
 
 ### 📽️ Get All Movies
-- Endpoint: `/movie`
+- Endpoint: `cinebelart-api.onrender.com/movie`
 - Method: `Get`
 - Description: retorna a lista com todos os filmes
 
@@ -21,11 +21,11 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
 {
     "moviesList": [
         {
-        "id": 1,
+        "id": "65c8e91a6a9b99c34d9a94c1",
         "title": "La La Land",
         "director": "Damien Chazelle",
         "releaseYear": 2017,
-        "poster": "https://photos.app.goo.gl/MMHVDmUTkjbWBCJz8"
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/18649499-3015-42ce-b314-8346b6222c38"
         }
     ]
 }
@@ -33,7 +33,7 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
 </details>
 
 ### 📽️ Get a specific movie
-- Endpoint: `/movie/:id`
+- Endpoint: `cinebelart-api.onrender.com/movie/:id`
 - Method: `Get`
 - Description: retorna um filme específico
 
@@ -42,27 +42,27 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
 	
 ```json
 {
-     "id": 1,
+     "id": "65c8e91a6a9b99c34d9a94c1",
      "title": "La La Land",
      "director": "Damien Chazelle",
      "releaseYear": 2017,
-     "poster": "https://photos.app.goo.gl/MMHVDmUTkjbWBCJz8"
+     "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/18649499-3015-42ce-b314-8346b6222c38"
 }
 ```
 </details>
 
 ### 📽️ Post a movie
-- Endpoint: `/movie`
+- Endpoint: `cinebelart-api.onrender.com/movie`
 - Method: `Post`
 - Description: adiciona um filme ao banco de dados.
 
 ### 📽️ Update a movie
-- Endpoint: `/movie/:id`
+- Endpoint: `cinebelart-api.onrender.com/movie/:id`
 - Method: `Put`
 - Description: atualiza um filme ao banco de dados.
 
 ### 📽️ Delete a movie
-- Endpoint: `/movie/:id`
+- Endpoint: `cinebelart-api.onrender.com/movie/:id`
 - Method: `Delete`
 - Description: deleta um filme ao banco de dados.
 
