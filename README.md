@@ -51,6 +51,21 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
 ```
 </details>
 
+### 📽️ Post a movie
+- Endpoint: `/movie`
+- Method: `Post`
+- Description: adiciona um filme ao banco de dados.
+
+### 📽️ Update a movie
+- Endpoint: `/movie/:id`
+- Method: `Put`
+- Description: atualiza um filme ao banco de dados.
+
+### 📽️ Delete a movie
+- Endpoint: `/movie/:id`
+- Method: `Delete`
+- Description: deleta um filme ao banco de dados.
+
 <!-- ## 📌 Como ver
 
 O projeto está hospedado no Vercel:
