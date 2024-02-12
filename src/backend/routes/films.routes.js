@@ -20,6 +20,7 @@ filmRouter.post('/movie', async (req, res) => {
   const movie = new Film({
     title: req.body.title,
     director: req.body.director,
+    synopsis: req.body.synopsis,
     releaseYear: Number(req.body.releaseYear),
     poster: req.body.poster
   });
@@ -34,6 +35,7 @@ filmRouter.put('/movie/:id', async (req, res) => {
     {
       title: req.body.title,
       director: req.body.director,
+      synopsis: req.body.synopsis,
       releaseYear: req.body.releaseYear,
       poster: req.body.poster,
     },

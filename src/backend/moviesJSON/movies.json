@@ -2,37 +2,141 @@
     {
         "title": "La La Land",
         "director": "Damien Chazelle",
+        "synopsis": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
         "releaseYear": "2017",
-        "poster": "https://photos.app.goo.gl/MMHVDmUTkjbWBCJz8"
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/cdaad20f-1461-4fa2-b45a-5a19cd98317"
     },
     {
         "title": "Killers of the Flower Moon",
         "director": "Martin Scorsese",
+        "synopsis": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
         "releaseYear": "2023",
-        "poster": "https://photos.app.goo.gl/sf5wjMhLopXqCFk98"
-    },
-    {
-        "title": "The Godfather",
-        "director": "Francis Ford Coppola",
-        "releaseYear": "1972",
-        "poster": "https://photos.app.goo.gl/b26dzz8mhnQWYYfE6"
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/fe90e696-a5c8-4c24-a31f-24ca881120f8"
     },
     {
         "title": "Pulp Fiction",
         "director": "Quentin Tarantino",
         "releaseYear": "1994",
-        "poster": "https://photos.app.goo.gl/yzR6GVDJHEFJcXFA7"
+        "synospis": "A burger-loving hit man, his philosophical partner, a drug-addled gangster’s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/eca095d7-6fc8-40c6-a2c6-94f0c18c0d37"
     },
     {
-        "title": "The Shawshank Redemption",
-        "director": "Frank Darabont",
-        "releaseYear": "1994",
-        "poster": "https://photos.app.goo.gl/uMw8uVpZD3fJ2sYZA"
+        "title": "Fight Club",
+        "director": "David Fincher",
+        "releaseYear": "1999",
+        "synospis": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground “fight clubs” forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/ca294984-c4d5-453e-a8ca-16013c9f48eb"
     },
     {
-        "title": "Inception",
+        "title": "Interstellar",
         "director": "Christopher Nolan",
+        "releaseYear": "2014",
+        "synospis": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/75e469ec-5945-479b-93b5-d7dd5fd12d7f"
+    },
+    {
+        "title": "Fantastic Mr. Fox",
+        "director": "Wes Anderson",
+        "releaseYear": "2009",
+        "synospis": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/54fb6c64-558f-42c1-9d0d-4b8f3112454b"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "releaseYear": "2023",
+        "synospis": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/ec1b2503-7b81-4a13-8159-ebad8187b2dd"
+    },
+    {
+        "title": "Black Swan",
+        "director": "Darren Aronofsky",
         "releaseYear": "2010",
-        "poster": "https://photos.app.goo.gl/e3tK5H4pV9UyykUc7"
-    }   
+        "synospis": "A journey through the psyche of a young ballerina whose starring role as the duplicitous swan queen turns out to be a part for which she becomes frighteningly perfect.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/66322837-fb29-49ba-b4ac-a834f5a3fccd"
+    },
+    {
+        "title": "Arrival",
+        "director": "Denis Villeneuve",
+        "releaseYear": "2016",
+        "synospis": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/dc880e4f-0d7a-4d5f-9c6f-78ac6a3e7e53"
+    },
+    {
+        "title": "Smile",
+        "director": "Parker Finn",
+        "releaseYear": "2022",
+        "synospis": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can’t explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/15079dc7-e39e-49db-8250-5b184277cb83"
+    },
+    {
+        "title": "Society of the Snow",
+        "director": "Juan Antonio García Bayona",
+        "releaseYear": "2023",
+        "synospis": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/d7372f9f-8c02-4e06-a5c8-cc03f3768ec3"
+    },
+    {
+        "title": "Saltburn",
+        "director": "Emerald Fennell",
+        "releaseYear": "2023",
+        "synospis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family’s sprawling estate, for a summer never to be forgotten.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/a0d3a8e5-d638-4255-80d9-c09c69a634bf"
+    },
+    {
+        "title": "Whiplash",
+        "director": "Damien Chazelle",
+        "releaseYear": "2014",
+        "synospis": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/4e0b2e33-9f24-41df-83a0-53725d348652"
+    },
+    {
+        "title": "Talk to Me",
+        "director": "Michael Philippou, Danny Philippou",
+        "releaseYear": "2022",
+        "synospis": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/e6c7fe5d-1cde-4906-824e-df6db50fd97c"
+    },
+    {
+        "title": "Come and See",
+        "director": "Elem Klimov",
+        "releaseYear": "1985",
+        "synospis": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family’s wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/dbcb807b-1f6b-410c-968d-2d9aac337701"
+    },
+    {
+        "title": "Carandiru",
+        "director": "Hector Babenco",
+        "releaseYear": "2003",
+        "synospis": "When a doctor decides to carry out an AIDS prevention program inside Latin America’s largest prison: the Casa de Detenção de São Paulo - Carandiru, he discovers the victim of one of the darkest days in Brazilian History when the State of São Paulo’s Military Police, with the excuse for law enforcement, shot to death 111 people. Based on real facts and on the book written by Dráuzio Varella.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/5bc2d5ce-b498-47f1-9380-5ae9e59d1a76"
+    },
+    {
+        "title": "City of God",
+        "director": "Fernando Meirelles",
+        "releaseYear": "2002",
+        "synospis": "Buscapé was raised in a very violent environment. Despite the feeling that all odds were against him, he finds out that life can be seen with other eyes…",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/9a012bb9-8b1b-44cc-80a5-9da7b2d1eb17"
+    },
+    {
+        "title": "Dead Poets Society",
+        "director": "Peter Weir",
+        "releaseYear": "1989",
+        "synospis": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/ba5b9f7f-cddb-4951-bac3-1c1365313d62"
+    },
+    {
+        "title": "Shutter Island",
+        "director": "Martin Scorsese",
+        "releaseYear": "2010",
+        "synospis": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by his troubling visions and also by a mysterious doctor.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/f20b8a00-8eb5-4fad-ae5a-47b385eb5e65"
+    },
+    {
+        "title": "Barbie",
+        "director": "Greta Gerwig",
+        "releaseYear": "2023",
+        "synospis": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/eabe29e1-1124-4001-9b1d-a17e8daa69d1"
+    }
 ]

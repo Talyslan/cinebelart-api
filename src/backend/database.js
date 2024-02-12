@@ -7,6 +7,7 @@ mongoose.connect(process.env.DATABASE_URL);
 const FilmSchema = new mongoose.Schema({
   title: String,
   director: String,
+  synopsis: String,
   releaseYear: Number,
   poster: String
 });
