@@ -1,7 +1,7 @@
 <h1 align="center"> CineBelArt API </h1>
 
 ## 🛸 O Projeto
-<img height="200" src="2" alt="gif" />
+<img height="200" src="https://i.pinimg.com/originals/0c/9a/23/0c9a237b6cc734101a7de258d0c5ae8f.gif" alt="gif" />
 
 <blockquote>Informações de filmes na sua mão para você enlouquecer pelo cinema!</blockquote>
 
@@ -23,6 +23,7 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
         {
         "id": "65c8e91a6a9b99c34d9a94c1",
         "title": "La La Land",
+	"synopsis": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
         "director": "Damien Chazelle",
         "releaseYear": 2017,
         "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/18649499-3015-42ce-b314-8346b6222c38"
@@ -45,6 +46,7 @@ Neste projeto foi desenvolvido pensando nas pessoas que amam cinema e desejam ut
      "id": "65c8e91a6a9b99c34d9a94c1",
      "title": "La La Land",
      "director": "Damien Chazelle",
+     "synopsis": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
      "releaseYear": 2017,
      "poster": "https://github.com/Talyslan/cinebelart-api/assets/78499700/18649499-3015-42ce-b314-8346b6222c38"
 }
