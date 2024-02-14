@@ -79,12 +79,12 @@ Se você gostaria de contribuir para o desenvolvimento da CineBelArt API, por fa
 
 - Para realizar um clone raso, reduzirá a quantidade de histórico baixado.
 ```javascript
-git clone --depth 1 https://github.com/Talyslan/Maya-Landing-Page.git
+git clone --depth 1 https://github.com/Talyslan/cinebelart-api.git
 ```
 
 - Para realizar um clone comum.
 ```javascript
-git clone https://github.com/Talyslan/Maya-Landing-Page.git
+git clone https://github.com/Talyslan/cinebelart-api.git
 ```
 
 - Instale as dependências e rode a API.
